@@ -42,6 +42,6 @@ B: 我要告诉你一个小秘密, Amanda. 钱并不是问题, 关键是要有�
 ***
 ### Vocabulary
 ```buildoutcfg
-high moral standard 
-let you in on a little secret
+* high moral standard 
+* let you in on a little secret
 ```
