@@ -29,8 +29,19 @@ A: 而唯一阻止我们梦想成真的就是, 那些立法者以公共政策为
 ```
 
 ```buildoutcfg
+A: That(policy) and monry. We always need more money.
+```
+
+```buildoutcfg
 B: I'm gonna let you in on a little secret, Amanda. It isn't about the money. It is about the resolve.
 ```
 ```buildoutcfg
 B: 我要告诉你一个小秘密, Amanda. 钱并不是问题, 关键是要有决心.
+```
+
+***
+### Vocabulary
+```buildoutcfg
+high moral standard 
+let you in on a little secret
 ```
