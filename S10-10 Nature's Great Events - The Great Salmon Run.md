@@ -20,4 +20,13 @@ A: 但并不容易. 要捕到跳跃的三文鱼是一门艺术, 这只年幼的�
 * proper meal
 * there is an art to doing...
 * salmon
+* acquire
+  - acquire a new skill
+  - acquire knowledge
+  - Reading is a good way to acquire knowledge.
+  - acquire a company
+  - Xilinx and AMD acquisition
+  - questionnaire
+* obtain
+  * obtain knowledge
 ```
