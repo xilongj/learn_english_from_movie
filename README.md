@@ -1,3 +1,3 @@
 # The Facebook of English Vocabulary
 
-### To be an International engineer with business sense.
+### To be an International Engineer with Business Sense.
