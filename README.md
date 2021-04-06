@@ -1,3 +1,4 @@
 # The Facebook of English Vocabulary
 
-### To be an International Engineer with Business Sense.
+## Author: Xilong Jin
+## E-mail: xilongus@gmail.com
