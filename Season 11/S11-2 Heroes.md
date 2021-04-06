@@ -4,7 +4,7 @@
 A: So I understand you and Zach cut school yesterday?
 ```
 ```buildoutcfg
-A: 你和Zach昨天逃学了?
+A: 你和 Zach 昨天逃学了?
 ```
 
 ```buildoutcfg
